@@ -1,5 +1,0 @@
-db_name = 'django_database'
-db_user = 'referal_app'
-db_password = 'referal'
-db_host = '127.0.0.1'
-db_port = '5432'
